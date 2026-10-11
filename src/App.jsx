@@ -239,8 +239,8 @@ function App() {
               <p>Have a question, want to collaborate, or just want to say hi? Send a message. I'd love to hear from you.</p>
               <a className="contact-email" href="mailto:nepunanpaula@gmail.com"><AtSign size={18} /> nepunanpaula@gmail.com <ArrowUpRight size={16} /></a>
               <div className="social-links">
-                <a href="https://github.com/" target="_blank" rel="noreferrer" aria-label="GitHub"><Github size={18} /></a>
-                <a href="https://www.instagram.com/" target="_blank" rel="noreferrer" aria-label="Instagram"><Instagram size={18} /></a>
+                <a href="https://github.com/" target="https://github.com/Gabrielle-hahahs" aria-label="GitHub"><Github size={18} /></a>
+                <a href="https://www.instagram.com/" target="https://www.instagram.com/gavv.rrr?vrfl=d2oybmN0cm4wa3E=" aria-label="Instagram"><Instagram size={18} /></a>
                 <a href="mailto:nepunanpaula@gmail.com" aria-label="Email"><AtSign size={18} /></a>
               </div>
             </div>

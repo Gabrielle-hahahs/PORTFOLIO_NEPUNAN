@@ -225,7 +225,14 @@ function App() {
               <span className="fact-label">A QUICK INTRO ON PAPER</span>
               <h3>My resume</h3>
               <p>Add your real education, experience, and contact details, then attach your own PDF resume here.</p>
-              <a className="button button-dark resume-download" href="#contact">Request my CV <ArrowUpRight size={16} /></a>
+              <a
+  className="button button-dark resume-download"
+  href="/Resume_20261012_015125_0000.pdf"
+  target="_blank"
+  rel="noreferrer"
+>
+  View My Resume <ArrowUpRight size={16} />
+</a>
               <div className="resume-card-footer"><span>UPDATED 2026</span><span>✳</span></div>
             </aside>
           </div>

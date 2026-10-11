@@ -76,7 +76,7 @@ function App() {
       <header className="topbar">
         <a href="#home" className="brand" aria-label="Go to homepage" onClick={closeMenu}>
           <span className="brand-mark">g<span>.</span></span>
-          <span className="brand-name">Gabrielle's Portfolio</span>
+          <span className="brand-name">Nepunan Portfolio</span>
         </a>
         <button className="mobile-menu-button" onClick={() => setMenuOpen(!menuOpen)} aria-label={menuOpen ? 'Close menu' : 'Open menu'}>
           {menuOpen ? <X size={21} /> : <Menu size={21} />}

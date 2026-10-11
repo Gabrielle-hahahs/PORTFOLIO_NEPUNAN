@@ -224,7 +224,6 @@ function App() {
               <div className="resume-card-icon"><Download size={23} /></div>
               <span className="fact-label">A QUICK INTRO ON PAPER</span>
               <h3>My resume</h3>
-              <p>Add your real education, experience, and contact details, then attach your own PDF resume here.</p>
               <a
   className="button button-dark resume-download"
   href="https://github.com/Gabrielle-hahahs/PORTFOLIO_NEPUNAN/blob/47c4c27a5591715cc33f117026ed49ac5b282ba7/White%20and%20Black%20Simple%20Student%20CV%20Resume_20261012_015125_0000.pdf"

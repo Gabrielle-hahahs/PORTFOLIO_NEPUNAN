@@ -227,7 +227,7 @@ function App() {
               <p>Add your real education, experience, and contact details, then attach your own PDF resume here.</p>
               <a
   className="button button-dark resume-download"
-  href="White and Black Simple Student CV Resume_20261012_015125_0000.pdf"
+  href="public/White and Black Simple Student CV Resume_20261012_015125_0000.pdf"
   target="_blank"
   rel="noreferrer"
 >
